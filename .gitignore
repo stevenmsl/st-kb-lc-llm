@@ -20,7 +20,9 @@ share/python-wheels/
 .installed.cfg  
 *.egg  
 MANIFEST
-# Environments  
+# Environments
+.streamlit/secrets.toml
+secrets.toml  
 .env  
 .venv  
 env/  
